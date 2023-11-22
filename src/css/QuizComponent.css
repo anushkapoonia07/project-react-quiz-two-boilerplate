@@ -1,0 +1,70 @@
+.QUE{
+    background-color: #f1dede; 
+    border-left: 4px solid rgb(115, 115, 200);
+    width: 85%;
+    margin: 4rem auto 0 auto;
+    padding: 2rem 2rem;
+  }
+  
+  h2{
+    font-size: 2.5rem;
+    text-align: center;
+    font-weight: 500;
+  }
+  
+  h5{
+    font-size: 1.5rem;
+    margin-bottom:4rem;
+    text-align: center;
+    font-weight: 500;
+  }
+  
+  .CONTAINER{
+    display: inline-block;
+    width: 50%;
+  }
+  
+  .OPTN{
+    background-color: #1da0f2cf;
+    border-radius: 20px;
+    color: #fff;
+    cursor: pointer;
+    margin: 2rem auto; 
+    padding: 1rem;
+    transition: 0.4s linear all;
+    text-align: center;
+    width: 90%;
+  }
+  
+  .BTN-CONTAINER{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 1.5rem auto;
+    padding: 2rem;
+    width: 80%;
+  }
+  
+  .BTN-CONTAINER button {
+    border: none;
+    cursor: pointer;
+    margin-right: 2rem; padding: 0.5rem 1.5rem;
+  
+  }
+  
+  .PREV{
+    background-color: #3d7eaa;
+    font-size: 20px;
+    color: white;
+  }
+  
+  .NEXT{
+    background-color: green;
+    font-size: 20px;
+    color: white;
+  }
+  
+  .QUIT{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+  }
